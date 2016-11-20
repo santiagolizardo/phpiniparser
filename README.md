@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/santiagolizardo/phpiniparser.svg?branch=master)](https://travis-ci.org/santiagolizardo/phpiniparser)
+
 # PHPIniParser
 
 ## Java library to parse the php.ini file
